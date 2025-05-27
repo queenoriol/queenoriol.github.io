@@ -88,7 +88,7 @@ Visitors who come during summer often return, with **48% expressing return inten
 
 - **Age Groups:** 25–44 (dominant), 45–64  
 - **Gender:** Male, Female  
-- **Trip Purpose:** Leisure (75%), Business (25%), Visiting Relatives  
+- **Trip Purpose:** Leisure (75%), Business (25%)
 
 ---
 
