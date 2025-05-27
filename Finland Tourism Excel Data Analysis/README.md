@@ -3,7 +3,7 @@
 A post-pandemic analysis of **domestic tourism trends** in Finland using **Excel dashboards and pivot tables**.  
 This project focuses on identifying key traveler behaviors, spending patterns, and recovery indicators across age, gender, and trip purpose.
 
->  [Download the Excel file](Finland%20Tourism%20Excel%20Data%20Analysis/Finland's_Post-Pandemic_Tourism.xlsx)
+>  [Interactive Excel dashboard and pivot tables available in the attached file](Finland%20Tourism%20Excel%20Data%20Analysis/Finland's_Post-Pandemic_Tourism.xlsx)
 
 ---
 
@@ -50,7 +50,7 @@ This analysis breaks down domestic tourism data into meaningful insights and vis
 | Return Intent          | % of travelers planning to return (summer/winter)|
 
 **Segments Used:**
-- **Age Groups:** 15–24, 25–44, 45–64, 65+
+- **Age Groups:** 25–44, 45–64
 - **Gender:** Male, Female
 - **Trip Purpose:** Leisure, Business, Visiting Relatives
 
@@ -61,7 +61,6 @@ This analysis breaks down domestic tourism data into meaningful insights and vis
 ### Age Group Trends
 - **25–44:** Core growth segment with highest trips, stays, and spending.
 - **45–64:** Lower spending and shorter trips—possible disengagement post-COVID.
-- **65+:** Small but stable—opportunity for wellness-oriented travel offers.
 
 ### Trip Purpose
 - **Leisure travel** leads recovery.
@@ -99,9 +98,9 @@ This analysis breaks down domestic tourism data into meaningful insights and vis
 
 ---
 
-## 👩‍💻 About the Analyst
+## About the Analyst
 
-I’m an aspiring **data analyst** passionate about uncovering meaningful trends that support **data-driven decisions**, especially in the fields of **tourism**, **healthcare**, and **social behavior**.
+Analyzing 2 years of domestic tourism data from Finland, I used Excel to clean, model, and visualize trends across demographics and trip purposes. Through pivot tables and KPIs, I tracked metrics such as trip counts, average spend, and return intent, enabling data-driven recommendations. This project sharpened my skills in delivering actionable, quantified insights for business impact.
 
 ---
 
