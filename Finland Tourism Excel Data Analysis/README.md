@@ -11,69 +11,65 @@ This project focuses on identifying key traveler behaviors, spending patterns, a
 
 Following the lifting of travel restrictions and revived traveler confidence, Finland has seen a steady recovery in domestic tourism.  
 
+While the number of visitors may not have drastically surged, the **total revenue rose to €2.21 billion in 2024**—a clear sign that travelers are spending more per visit. This suggests that Finland has successfully repositioned itself as a destination for **longer, more meaningful travel**, attracting tourists with its unique blend of nature, safety, and cultural authenticity.
+
+The data also reveals a **seasonal and demographic concentration**: summer is by far the busiest period, and travelers aged **25 to 44** dominate the market. These insights, along with the increasing average length of stay among **business travelers**, highlight Finland’s potential to grow both leisure and business tourism by aligning offers with traveler motivations.
+
+---
+
 This section breaks down the Finnish domestic tourism recovery into six detailed components:
+
+## Tourism Revenue Increased to €2.21B in 2024
 
 ![Dashboard Screenshot](Images/Revenue.png)
 
----
-
-## Total Domestic Trips & Overnights
-- Revenue grew from **€2.12B in 2023 to €2.21B in 2024**, reflecting renewed demand, longer stays, and possibly higher spending per trip.
-
-- Overnights increased, indicating longer or more frequent stays.
-
 **Insight:**  
-Adults aged **25–44** led both total trips and overnights, highlighting them as Finland’s core domestic travelers.
-
-![Dashboard Screenshot](images/dashboard.png)
+Revenue grew by 4.2% year-on-year despite modest changes in visitor numbers, signaling higher spending per tourist. This could be due to longer stays, more premium travel experiences, or inflation-adjusted pricing.
 
 ---
 
-## Spending Patterns
-- Domestic tourism revenue rose from **€2.12B (2023)** to **€2.21B (2024)**.
-- Longer stays and inflation may have increased average spend per visitor.
+## Most Trips Are Leisure-Related
+
+ ![Dashboard Screenshot](Images/Overnights.png)
 
 **Insight:**  
-🔹 The growth suggests a steady recovery driven by **longer trips, wellness spending, and rising travel confidence** post-COVID.
-
-_Insert chart: “Spending and Trip Duration by Trip Purpose”_
+Nature and wellness-based tourism dominate. Finland’s peaceful forests, lakes, and saunas continue to appeal to travelers seeking restorative, health-focused experiences—a trend amplified post-COVID.
 
 ---
 
-## Trip Duration & Bleisure Trends
-- Business travelers** averaged about **9 days per trip**, longer than typical durations.
-- This reflects **"bleisure" travel**—combining business with leisure or multi-city visits.
+## Visitors Aged 25–44 Dominate
+
+ ![Dashboard Screenshot](Images/Overnights.png)
 
 **Insight:**  
-Business travel behavior is evolving—longer stays may reflect efforts to **maximize travel cost** and **enhance experience**.
-
-_Insert chart: “Lead Time vs Return Intent by Season and Trip Purpose”_
-
-
-### Booking Lead Time
-- Lead times have normalized, especially for **business trips**, signaling improved confidence.
-- **Early planning** is returning among most traveler types.
-
-**Insight:**  
-Increased lead time offers an opportunity for **pre-trip marketing and bundled offers**.
+This group, likely professionals or digital nomads, values experiences, flexibility, and well-being. Their tech-savviness and economic means make them ideal targets for immersive, high-value tourism campaigns.
 
 ---
 
-### 5. Return Intent & Seasonality
-- **Summer 2023** was the **busiest quarter**, driven by school holidays and outdoor activities.
-- **Return intent** peaks in summer and improves in winter.
+### Summer 2023 Was the Busiest Quarter
+
+ ![Dashboard Screenshot](Images/Overnights.png)
 
 **Insight:**  
-Seasonal tourism is strong—emotional experiences during summer lead to **repeat visits**.
+Long daylight hours, outdoor festivals, and family-friendly conditions make summer the high season. This reflects both local weather advantages and alignment with holidays in key source countries.
+
+--- 
+
+### Business Travelers Stay ~9 Days
+
+ ![Dashboard Screenshot](Images/Overnights.png)
+
+**Insight:**  
+Business trips to Finland tend to be extended, often merging professional and personal travel (“bleisure”). This maximizes the return on long-haul travel while boosting per-visitor revenue.
 
 ---
 
-### 6. Trip Purpose & Traveler Motivation
-- **Leisure dominates** trip purposes due to Finland’s natural beauty and wellness appeal.
-- Visitors are increasingly prioritizing **restorative, nature-based travel**.
+### Summer Sees Higher Return Rates
+
+ ![Dashboard Screenshot](Images/Overnights.png)
 
 **Insight:**  
-Finland is well-positioned for **slower, meaningful travel** that aligns with post-pandemic values.
+Visitors who come during summer often return, suggesting that emotional connections formed during nature-filled summer experiences help build lasting tourist loyalty.
 
 ---
 
@@ -89,55 +85,29 @@ Finland is well-positioned for **slower, meaningful travel** that aligns with po
 | Return Intent          | travelers planning to return (summer/winter)     |
 
 **Segments Used:**
-- **Age Groups:** 15–24, 25–44, 45–64, 65+
+- **Age Groups:** 25–44, 45–64
 - **Gender:** Male, Female
 - **Trip Purpose:** Leisure, Business, Visiting Relatives
-
-_Insert chart: “Summary of Key Metrics by Segment”_
 
 ---
 
 ## Summary of Insights
 
-### Age Group Trends
-- **25–44**: Largest contributor to trips and spend; values nature and immersive travel.
-- **45–64**: Shows lower travel frequency and spend—could be affected by health or cost.
-
-### Trip Purpose
-- **Leisure travel** leads recovery, driven by demand for wellness, nature, and restorative experiences.
-- **Business travel** is evolving, with longer stays and more flexible trip purposes.
-
-### Lead Time & Return Intent
-- **Confidence to plan ahead** is rising again.
-- Return intent is **strongest in summer**, with growing winter interest.
-
-### Spending Behavior
-- Inflation and longer stays contribute to higher spending, especially among **young adults**.
-- **Bleisure trends** extend business stays and increase spend per trip.
+**What the data tells us:**
+- Post-pandemic recovery is steady, driven by higher spending rather than sheer volume.
+- Finland’s image as a calm, safe, and wellness-focused destination resonates with current traveler values.
+- The most active age group (25–44) is experience-driven and likely to respond to digital, values-based marketing.
+- Summer remains Finland’s tourism sweet spot—both for new visits and return travel.
+- Business travelers are increasingly blending work and leisure, staying longer and contributing more per visit.
 
 ---
 
 ## Recommendations & Next Steps
 
-### Target High-Value Demographics
-- Focus on **25–44-year-old leisure travelers**—they combine **spending power** with **return likelihood**.
-- Tailor digital campaigns to highlight Finland’s **wellness, nature, and seasonal uniqueness**.
-
-### Promote Extended-Stay Offers
-- Create **bundled experiences** for business travelers to encourage **longer “bleisure” trips**.
-- Offer flexible booking to support early planners.
-
-### Launch Seasonal Campaigns
-- Leverage peak **summer demand** with themed packages, loyalty programs, and upsells.
-- Highlight different seasonal activities to promote **year-round tourism**.
-
-### Explore 45–64 Segment Further
-- Investigate why this group shows **lower engagement**—cost, accessibility, or changing preferences?
-- Consider follow-up **qualitative research** (e.g., surveys or interviews).
-
-### Improve Booking Window Strategy
-- Capitalize on improved lead time by using **early bird promotions** and **reminder emails** for key holidays.
-
+- **📢 Promote summer travel packages:** Curate themed experiences (e.g., wellness retreats, cultural festivals, hiking tours) to appeal to first-time and repeat visitors during the peak season.
+- **🎯 Target the 25–44 leisure segment:** Design social media and content marketing campaigns around Finland’s nature, tranquility, and uniqueness—tailored to younger professionals and experience seekers.
+- **💼 Capture 'bleisure' potential:** Create extended-stay offers or discounts for business travelers who extend their trip with leisure activities.
+- **🧑‍🔧 Strengthen summer operations:** Ensure staffing, infrastructure, and local services are scaled to deliver smooth and memorable peak season experiences.
 ---
 
 ## Tools Used
