@@ -1,6 +1,7 @@
 # Finland Tourism Recovery Analysis (2023–2024)
 
 A post-pandemic analysis of **domestic tourism trends** in Finland using **Excel dashboards and pivot tables**.  
+
 This project focuses on identifying key traveler behaviors, spending patterns, and recovery indicators across age, gender, and trip purpose.
 
 > [Interactive Excel dashboard and pivot tables available in the attached file](Finland's_Post-Pandemic_Tourism.xlsx)
@@ -30,7 +31,7 @@ Revenue grew by 4.2% year-on-year despite modest changes in visitor numbers, sig
 
 ## Most Trips Are Leisure-Related
 
- ![Dashboard Screenshot](Images/Overnights.png)
+ ![Dashboard Screenshot](Images/Purpose.png)
 
 **Insight:**  
 Nature and wellness-based tourism dominate. Finland’s peaceful forests, lakes, and saunas continue to appeal to travelers seeking restorative, health-focused experiences—a trend amplified post-COVID.
@@ -39,7 +40,7 @@ Nature and wellness-based tourism dominate. Finland’s peaceful forests, lakes,
 
 ## Visitors Aged 25–44 Dominate
 
- ![Dashboard Screenshot](Images/Overnights.png)
+ ![Dashboard Screenshot](Images/Age_Group.png)
 
 **Insight:**  
 This group, likely professionals or digital nomads, values experiences, flexibility, and well-being. Their tech-savviness and economic means make them ideal targets for immersive, high-value tourism campaigns.
@@ -57,7 +58,7 @@ Long daylight hours, outdoor festivals, and family-friendly conditions make summ
 
 ### Business Travelers Stay ~9 Days
 
- ![Dashboard Screenshot](Images/Overnights.png)
+ ![Dashboard Screenshot](Images/Duration.png)
 
 **Insight:**  
 Business trips to Finland tend to be extended, often merging professional and personal travel (“bleisure”). This maximizes the return on long-haul travel while boosting per-visitor revenue.
@@ -66,7 +67,7 @@ Business trips to Finland tend to be extended, often merging professional and pe
 
 ### Summer Sees Higher Return Rates
 
- ![Dashboard Screenshot](Images/Overnights.png)
+ ![Dashboard Screenshot](Images/Return.png)
 
 **Insight:**  
 Visitors who come during summer often return, suggesting that emotional connections formed during nature-filled summer experiences help build lasting tourist loyalty.
@@ -104,10 +105,18 @@ Visitors who come during summer often return, suggesting that emotional connecti
 
 ## Recommendations & Next Steps
 
-- **📢 Promote summer travel packages:** Curate themed experiences (e.g., wellness retreats, cultural festivals, hiking tours) to appeal to first-time and repeat visitors during the peak season.
-- **🎯 Target the 25–44 leisure segment:** Design social media and content marketing campaigns around Finland’s nature, tranquility, and uniqueness—tailored to younger professionals and experience seekers.
-- **💼 Capture 'bleisure' potential:** Create extended-stay offers or discounts for business travelers who extend their trip with leisure activities.
-- **🧑‍🔧 Strengthen summer operations:** Ensure staffing, infrastructure, and local services are scaled to deliver smooth and memorable peak season experiences.
+**Promote summer travel packages:**
+Curate themed experiences (e.g., wellness retreats, cultural festivals, hiking tours) to appeal to first-time and repeat visitors during the peak season.
+ 
+**Target the 25–44 leisure segment:** 
+Design social media and content marketing campaigns around Finland’s nature, tranquility, and uniqueness—tailored to younger professionals and experience seekers.
+ 
+**Capture 'bleisure' potential:** 
+Create extended-stay offers or discounts for business travelers who extend their trip with leisure activities.
+
+**Strengthen summer operations:**
+Ensure staffing, infrastructure, and local services are scaled to deliver smooth and memorable peak season experiences
+  
 ---
 
 ## Tools Used
