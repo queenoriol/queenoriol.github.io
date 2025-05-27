@@ -9,36 +9,48 @@ This project focuses on identifying key traveler behaviors, spending patterns, a
 
 ## Tourism Overview
 
-This analysis breaks down domestic tourism data into meaningful insights and visual summaries:
-
-### Total Domestic Trips & Overnights
-- **Leisure trips** rebounded strongly in 2023, especially among the **25–44 age group**.
-- Overnights increased in parallel, suggesting longer or more frequent stays.
-
-**Insight:**  
-🔹 Adults aged **25–44** contributed the most to total trips and overnights, followed by the **45–64** segment.
+Following the lifting of travel restrictions and revived traveler confidence, Finland has seen a steady recovery in domestic tourism.  
+Revenue grew from **€2.12B in 2023 to €2.21B in 2024**, reflecting renewed demand, longer stays, and possibly higher spending per trip.
 
 ---
 
-### Spending Trends and Trip Duration
-- Longer trips are associated with **higher total spending**.
-- **25–44-year-olds** show the **highest average spend**, especially on leisure travel.
+## Domestic Trips & Overnights
+
+- Most domestic trips were **leisure-related**, especially in **summer 2023**, Finland’s peak season.
+- **25–44-year-olds** contributed the most to travel volume and overnights.
 
 **Insight:**  
-🔹 This segment not only takes longer trips but also **spends more per day** than others.
+Nature, wellness, and cultural offerings continue to drive domestic leisure travel, particularly among younger adults.
+
+ _Insert chart: “Trips and Overnights by Age Group and Quarter”_
 
 ---
 
-### Lead Time & Return Intent
-- Booking **lead time** has recovered for **business travel**.
-- **Return intent** is strong for both **summer and winter** periods.
+## Spending Trends and Trip Duration
+
+- Growth in spending per visitor points to a **shift toward longer or more meaningful travel**.
+- Business travelers stayed around **9 days on average**, likely combining work and leisure.
 
 **Insight:**  
-🔹 Travelers are increasingly confident in planning ahead, with consistent intent to return.
+Extended stays and “bleisure” travel are on the rise, especially in scenic, low-stress environments like Finland.
+
+_Insert chart: “Spending and Trip Duration by Trip Purpose”_
 
 ---
 
-## Key Metrics and Segments
+## Lead Time & Return Intent
+
+- Travelers are **booking earlier**, particularly for **business trips**.
+- **Return rates peak in summer**, boosted by positive seasonal experiences.
+
+**Insight:**  
+Summer experiences—such as festivals and nature immersion—are highly memorable and encourage repeat visits.
+
+_Insert chart: “Lead Time vs Return Intent by Season and Trip Purpose”_
+
+---
+
+## 🌟 Key Metrics and Segments
 
 | Metric                 | Description                                       |
 |------------------------|---------------------------------------------------|
@@ -50,25 +62,38 @@ This analysis breaks down domestic tourism data into meaningful insights and vis
 | Return Intent          | % of travelers planning to return (summer/winter)|
 
 **Segments Used:**
-- **Age Groups:** 25–44, 45–64
+- **Age Groups:** 15–24, 25–44, 45–64, 65+
 - **Gender:** Male, Female
 - **Trip Purpose:** Leisure, Business, Visiting Relatives
+
+_Insert chart: “Summary of Key Metrics by Segment”_
 
 ---
 
 ## Summary of Insights
 
 ### Age Group Trends
-- **25–44:** Core growth segment with highest trips, stays, and spending.
-- **45–64:** Lower spending and shorter trips—possible disengagement post-COVID.
+- **25–44:** Key growth segment with the most trips, stays, and spending.
+- **45–64:** Less engaged—may need reactivation strategies.
+- **65+:** Small but steady—could benefit from wellness or low-mobility options.
+
+_Insert chart: “Trip & Spending Distribution by Age Group”_
+
+---
 
 ### Trip Purpose
-- **Leisure travel** leads recovery.
-- **Business travel** is slowly returning—especially among younger males.
+- **Leisure** dominates post-pandemic recovery.
+- **Business** is recovering slowly, especially among younger male travelers.
+
+Insert chart: “Trip Purpose Trends: Leisure vs Business Recovery”_
+
+---
 
 ### Lead Time & Return Intent
-- Business travelers now book earlier—confidence is returning.
-- Return intent is **highest in summer**, improving in winter—suggesting potential for year-round engagement.
+- Travelers are regaining confidence to book ahead.
+- Summer return intent is highest—opportunity for targeted seasonal campaigns.
+
+_Insert chart: “Return Intent and Lead Time by Season”_
 
 ---
 
@@ -76,18 +101,32 @@ This analysis breaks down domestic tourism data into meaningful insights and vis
 
 ### Target High-Spending Segments
 - Focus campaigns on **young adult leisure travelers (25–44)**.
-- Promote **longer-duration packages** to maximize spend per trip.
+- Promote **longer stays** with wellness, nature, and cultural experiences.
+
+_Insert visual: “Profile of Young Adult Leisure Travelers”_
+
+---
 
 ### Investigate Drop-off Segments
-- Explore reasons behind **low engagement in the 45–64** group (e.g., cost, health, travel options).
-- Consider follow-up surveys for deeper insights.
+- Explore **reasons behind 45–64 disengagement** (e.g., cost, options).
+- Use surveys or follow-ups for deeper understanding.
 
-### Promote Lead Time Planning
-- Encourage **early bookings** with flexible options, especially for **business** and **winter travel**.
+_Insert visual: “Trip Volume Change by Age Segment”_
 
-### Seasonal Campaigns
-- Leverage **return intent data** to time marketing efforts.
-- Design **loyalty programs** to convert return intention into action.
+---
+
+### Encourage Early Bookings
+- Offer incentives for **early planning**, especially for **business and winter trips**.
+
+_Insert visual: “Booking Lead Time Trends by Trip Purpose”_
+
+---
+
+### Leverage Seasonal Appeal
+- Promote **summer packages** and encourage repeat visits.
+- Align marketing with peak return intent and emotional connection to nature.
+
+_Insert visual: “Seasonal Return Intent and Campaign Opportunities”_
 
 ---
 
