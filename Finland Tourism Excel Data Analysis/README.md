@@ -13,7 +13,7 @@ Following the lifting of travel restrictions and revived traveler confidence, Fi
 
 This section breaks down the Finnish domestic tourism recovery into six detailed components:
 
-![Dashboard Screenshot](images/Revenue.png)
+![Dashboard Screenshot](Images/Revenue.png)
 
 ---
 
