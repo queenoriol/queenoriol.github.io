@@ -1,6 +1,6 @@
 # Finland Tourism Recovery Analysis (2023–2024)
 
-A post-pandemic analysis of domestic tourism trends in Finland using Excel dashboards and pivot tables.
+A post-pandemic analysis of inbound trips to Finland from abroad using Excel dashboards and pivot tables.
 
 This project focused on identifying key traveler behaviors, spending patterns, and recovery indicators across working-age demographics, gender, and trip purpose.
 
@@ -10,9 +10,9 @@ This project focused on identifying key traveler behaviors, spending patterns, a
 
 ## Tourism Overview
 
-Following the lifting of travel restrictions and the return of traveler confidence, Finland has seen a steady recovery in domestic tourism.
+Following the lifting of travel restrictions and the return of traveler confidence, Finland has seen a steady recovery in international visitor arrivals.
 
-While the number of visitors may not have drastically increased, the total tourism revenue rose to **€2.21 billion** in 2024—an increase of **4.2%** from the previous year. This suggests that travelers are spending more per visit, indicating a shift toward longer, more meaningful trips and a continued interest in Finland's nature, safety, and cultural authenticity.
+While the number of visitors may not have drastically increased, the total tourism revenue rose to **€2.21 billion** in 2024—an increase of **4.2%** from the previous year. This suggests that travelers arriving from abroad are spending more per visit, indicating a shift toward longer, more meaningful trips and a continued interest in Finland's nature, safety, and cultural authenticity.
 
 Seasonality remains significant, with summer being the busiest period. A deeper look into specific demographics—particularly travelers aged **25–44** and **45–64**—revealed that this group contributes the majority of tourism revenue. These two age groups were prioritized in the analysis as they represent the core of the working population and are likely to have more stable income and travel patterns.
 
@@ -36,7 +36,7 @@ Revenue grew by **4.2%** despite a modest **3.4% increase in visitor numbers** t
 ![Dashboard Screenshot](Images/Purpose.png)
 
 **Insight:**  
-Nature and wellness-based tourism dominate. Finland’s peaceful forests, lakes, and saunas continue to appeal to travelers seeking restorative, health-focused experiences—a trend amplified post-COVID. **Leisure trips represent about 70%** of all trips, with **business trips accounting for the remaining 30%**.
+Nature and wellness-based tourism dominate. Finland’s peaceful forests, lakes, and saunas continue to appeal to international travelers seeking restorative, health-focused experiences—a trend amplified post-COVID. **Leisure trips represent about 70%** of all trips, with **business trips accounting for the remaining 30%**.
 
 ---
 
@@ -79,12 +79,12 @@ Business trips to Finland tend to be extended, often merging professional and pe
 ## Key Metrics and Segments Summary
 
 | Metric                                | 2023  | 2024  | Change    |
-|---------------------------------------|-------|-------|-----------|
-| **Total Trips (in millions)**         | 2.9   | 3.0   | **+3.4%** |
-| **Total Revenue (in € billions)**     | 2.12  | 2.21  | **+4.2%** |
+|-------------------------------------|-------|-------|-----------|
+| **Total Trips (in millions)**       | 2.9   | 3.0   | **+3.4%** |
+| **Total Revenue (in € billions)**   | 2.12  | 2.21  | **+4.2%** |
 | **Average Trip Duration Business (days)** | 8     | 10    | **+25%**  |
-| **Average Spend per Trip (€)**        | 731   | 737   | **+0.8%** |
-| **Return Intent (Summer)**             | 3.8/5 | 3.9/5 | **+2 points** |
+| **Average Spend per Trip (€)**      | 731   | 737   | **+0.8%** |
+| **Return Intent (Summer)**           | 3.8/5 | 3.9/5 | **+2 points** |
 
 *Note: Average Spend per Trip = Total Revenue ÷ Total Trips*
 
@@ -127,4 +127,4 @@ Business trips to Finland tend to be extended, often merging professional and pe
 
 ## About the Analyst
 
-Analyzing 2 years of domestic tourism data from Finland, I used Excel to clean, model, and visualize trends across demographics and trip purposes. Through pivot tables and KPIs, I tracked metrics such as trip counts, average spend, and return intent, enabling data-driven recommendations. This project sharpened my skills in delivering actionable, quantified insights for business impact.
+Analyzing 2 years of international visitor data to Finland, I used Excel to clean, model, and visualize trends across demographics and trip purposes. Through pivot tables and KPIs, I tracked metrics such as trip counts, average spend, and return intent, enabling data-driven recommendations. This project sharpened my skills in delivering actionable, quantified insights for business impact.
