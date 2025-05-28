@@ -72,7 +72,7 @@ Business trips to Finland tend to be extended, often merging professional and pe
 ![Dashboard Screenshot](Images/Return.png)
 
 **Insight:**  
-**3.9/5** of travelers surveyed in summer 2024 indicated they intended to return—an increase of 2 percentage points compared to the previous year. This suggests that emotional connections formed during nature-filled summer experiences help build lasting tourist loyalty.
+**3.9/5** of travelers surveyed in summer 2024 indicated they intended to return—an increase of +0.11 change compared to the previous year. This suggests that emotional connections formed during nature-filled summer experiences help build lasting tourist loyalty.
 
 ---
 
@@ -84,7 +84,7 @@ Business trips to Finland tend to be extended, often merging professional and pe
 | **Total Revenue (in € billions)**   | 2.12  | 2.21  | **+4.06%** |
 | **Average Trip Duration Business (days)** | 8     | 10    | **+14.85%**  |
 | **Average Spend per Trip (€)**      | 733.02   | 736.59   | **+0.49%** |
-| **Return Intent (Summer)**           | 3.82/5 | 3.93/5 | **+0.1** |
+| **Return Intent (Summer)**           | 3.82/5 | 3.93/5 | **+0.11** |
 
 *Note: Average Spend per Trip = Total Revenue ÷ Total Trips*
 
