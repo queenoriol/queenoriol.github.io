@@ -2,7 +2,7 @@
 
 A post-pandemic analysis of domestic tourism trends in Finland using Excel dashboards and pivot tables.
 
-This project focused on identifying key traveler behaviors, spending patterns, and recovery indicators across working-age demographics (25–64), gender, and trip purpose.
+This project focused on identifying key traveler behaviors, spending patterns, and recovery indicators across working-age demographics, gender, and trip purpose.
 
 > [Interactive Excel dashboard and pivot tables available in the attached file](Finland's_Post-Pandemic_Tourism.xlsx)
 
