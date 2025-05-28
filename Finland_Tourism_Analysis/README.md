@@ -1,8 +1,8 @@
 # Finland Tourism Recovery Analysis (2023–2024)
 
-A post-pandemic analysis of **domestic tourism trends** in Finland using **Excel dashboards and pivot tables**.  
+A post-pandemic analysis of domestic tourism trends in Finland using Excel dashboards and pivot tables.
 
-This project focuses on identifying key traveler behaviors, spending patterns, and recovery indicators across age, gender, and trip purpose.
+This project focused on identifying key traveler behaviors, spending patterns, and recovery indicators across working-age demographics (25–64), gender, and trip purpose.
 
 > [Interactive Excel dashboard and pivot tables available in the attached file](Finland's_Post-Pandemic_Tourism.xlsx)
 
@@ -10,31 +10,33 @@ This project focuses on identifying key traveler behaviors, spending patterns, a
 
 ## Tourism Overview
 
-Following the lifting of travel restrictions and revived traveler confidence, Finland has seen a steady recovery in domestic tourism.  
+Following the lifting of travel restrictions and the return of traveler confidence, Finland has seen a steady recovery in domestic tourism.
 
-While the number of visitors may not have drastically surged, the **total revenue rose to €2.21 billion in 2024**, up **4.2%** from 2023 — a clear sign that travelers are spending more per visit. This suggests that Finland has successfully repositioned itself as a destination for **longer, more meaningful travel**, attracting tourists with its unique blend of nature, safety, and cultural authenticity.
+While the number of visitors may not have drastically increased, the total tourism revenue rose to **€2.21 billion** in 2024—an increase of **4.2%** from the previous year. This suggests that travelers are spending more per visit, indicating a shift toward longer, more meaningful trips and a continued interest in Finland's nature, safety, and cultural authenticity.
 
-The data also reveals a **seasonal and demographic concentration**: summer is by far the busiest period, and travelers aged **25 to 44** dominate the market. These insights, along with the increasing average length of stay among **business travelers** (**8.9 days**), highlight Finland’s potential to grow both leisure and business tourism by aligning offers with traveler motivations.
+Seasonality remains significant, with summer being the busiest period. A deeper look into specific demographics—particularly travelers aged **25–44** and **45–64**—revealed that this group contributes the majority of tourism revenue. These two age groups were prioritized in the analysis as they represent the core of the working population and are likely to have more stable income and travel patterns.
+
+Notably, business-related travel has also stabilized, with an increasing average length of stay among working professionals, pointing to opportunities for targeted, value-driven tourism offerings.
 
 ---
 
-## Detailed Insights with Quantified Metrics
+## Key Insights
 
 ### Tourism Revenue Increased to **€2.21B** in 2024
 
 ![Dashboard Screenshot](Images/Revenue.png)
 
 **Insight:**  
-Revenue grew by **4.2% year-on-year** despite a modest **1.5% increase in visitor numbers** to **3.8 million trips**, signaling **higher spending per tourist**. The **average spend per trip increased by 4.5%**, reaching approximately **€580**. This could be due to longer stays, more premium travel experiences, or inflation-adjusted pricing.
+Revenue grew by **4.2% year-on-year** despite a modest **3.4% increase in visitor numbers** to **3.0 million trips**, signaling **higher spending per tourist**. The **average spend per trip increased by 0.8%**, reaching approximately **€737**. This could be due to longer stays, more premium travel experiences, or inflation-adjusted pricing.
 
 ---
 
-### **75% of Trips Are Leisure-Related**
+### 70% of Trips Are Leisure-Related
 
 ![Dashboard Screenshot](Images/Purpose.png)
 
 **Insight:**  
-Nature and wellness-based tourism dominate. Finland’s peaceful forests, lakes, and saunas continue to appeal to travelers seeking restorative, health-focused experiences—a trend amplified post-COVID. **Leisure trips represent about 75%** of all trips, with **business trips accounting for the remaining 25%**.
+Nature and wellness-based tourism dominate. Finland’s peaceful forests, lakes, and saunas continue to appeal to travelers seeking restorative, health-focused experiences—a trend amplified post-COVID. **Leisure trips represent about 70%** of all trips, with **business trips accounting for the remaining 30%**.
 
 ---
 
@@ -43,7 +45,7 @@ Nature and wellness-based tourism dominate. Finland’s peaceful forests, lakes,
 ![Dashboard Screenshot](Images/Age_Group.png)
 
 **Insight:**  
-This group, likely professionals or digital nomads, values experiences, flexibility, and well-being. They make up **52% of total trips** and account for **57% of total spending**. Their tech-savviness and economic means make them ideal targets for immersive, high-value tourism campaigns.
+This group, likely professionals or digital nomads, values experiences, flexibility, and well-being. They make up **57% of total trips** and account for **58% of total spending**. Their tech-savviness and economic means make them ideal targets for immersive, high-value tourism campaigns.
 
 ---
 
@@ -52,16 +54,16 @@ This group, likely professionals or digital nomads, values experiences, flexibil
 ![Dashboard Screenshot](Images/Overnights.png)
 
 **Insight:**  
-Long daylight hours, outdoor festivals, and family-friendly conditions make summer the high season. **Q3 alone accounted for 37% of total trips (1.4 million)** and **45% of overnight stays**. This reflects both local weather advantages and alignment with holidays in key source countries.
+Long daylight hours, outdoor festivals, and family-friendly conditions make summer the high season. **Q3 alone accounted for 20% of total trips (1.2 million)** and **22% of overnight stays**. This reflects both local weather advantages and alignment with holidays in key source countries.
 
 ---
 
-### Business Travelers Stay **~9 Days**
+### Business Travelers Stay Longer
 
 ![Dashboard Screenshot](Images/Duration.png)
 
 **Insight:**  
-Business trips to Finland tend to be extended, often merging professional and personal travel (“bleisure”). **Average trip duration for business travelers is 8.9 days** compared to **4.3 days for leisure trips**. This maximizes the return on long-haul travel while boosting **per-visitor revenue (€680 average spend vs. €560 for leisure)**.
+Business trips to Finland tend to be extended, often merging professional and personal travel (“bleisure”). **Average trip duration for business travelers is 10 days** compared to **7.3 days for leisure trips**. This maximizes the return on long-haul travel while boosting **per-visitor revenue**.
 
 ---
 
@@ -70,25 +72,29 @@ Business trips to Finland tend to be extended, often merging professional and pe
 ![Dashboard Screenshot](Images/Return.png)
 
 **Insight:**  
-Visitors who come during summer often return, with **48% expressing return intent**, which is **12 percentage points higher than the winter season (36%)**. This suggests that emotional connections formed during nature-filled summer experiences help build lasting tourist loyalty.
+**3.9/5** of travelers surveyed in summer 2024 indicated they intended to return—an increase of 2 percentage points compared to the previous year. This suggests that emotional connections formed during nature-filled summer experiences help build lasting tourist loyalty.
 
 ---
 
 ## Key Metrics and Segments Summary
 
-| Metric                   | 2023   | 2024   | Change           |
-|--------------------------|--------|--------|------------------|
-| Total Trips (Million)     | 3.74   | 3.80   | +1.5%            |
-| Total Revenue (€ Billion) | 2.12   | 2.21   | +4.2%            |
-| Average Trip Duration (Days) | 4.5 | 4.6    | +2.2%            |
-| Average Spend per Trip (€) | 555   | 580    | +4.5%            |
-| Return Intent (Summer)    | 43%    | 48%    | +5 percentage pts |
+| Metric                                | 2023  | 2024  | Change    |
+|---------------------------------------|-------|-------|-----------|
+| **Total Trips (in millions)**         | 2.9   | 3.0   | **+3.4%** |
+| **Total Revenue (in € billions)**     | 2.12  | 2.21  | **+4.2%** |
+| **Average Trip Duration Business (days)** | 8     | 10    | **+25%**  |
+| **Average Spend per Trip (€)**        | 731   | 737   | **+0.8%** |
+| **Return Intent (Summer)**             | 3.8/5 | 3.9/5 | **+2 points** |
+
+*Note: Average Spend per Trip = Total Revenue ÷ Total Trips*
 
 **Segments:**
 
-- **Age Groups:** 25–44 (dominant), 45–64  
-- **Gender:** Male, Female  
-- **Trip Purpose:** Leisure (75%), Business (25%)
+**Focus: Working-age groups (25–64)** due to their financial stability, high travel activity, and influence on tourism trends.
+
+- Age Groups: **25–44**, **45–64**  
+- Gender: Male, Female  
+- Purpose of Trip: Leisure, Business
 
 ---
 
@@ -113,8 +119,9 @@ Visitors who come during summer often return, with **48% expressing return inten
 
 ## Tools Used
 
-- **Excel** – Data cleaning, pivot tables, formulas (SUMIFS, COUNTIFS, etc.)  
-- **Excel Dashboard** – Interactive slicers, KPI cards, visual storytelling  
+- Excel: Data cleaning, transformation, and calculation  
+- Pivot Tables: For aggregation and exploration by year, demographic, and purpose  
+- Interactive Dashboard: With slicers to filter by age group, gender, and trip type
 
 ---
 
