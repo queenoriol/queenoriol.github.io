@@ -12,7 +12,7 @@ This project focused on identifying key traveler behaviors, spending patterns, a
 
 Following the lifting of travel restrictions and the return of traveler confidence, Finland has seen a steady recovery in international visitor arrivals.
 
-While the number of visitors may not have drastically increased, the total tourism revenue rose to **€2.21 billion** in 2024—an increase of **4.2%** from the previous year. This suggests that travelers arriving from abroad are spending more per visit, indicating a shift toward longer, more meaningful trips and a continued interest in Finland's nature, safety, and cultural authenticity.
+While the number of visitors may not have drastically increased, the total tourism revenue rose to **€2.21 billion** in 2024—an increase of **4.06%** from the previous year. This suggests that travelers arriving from abroad are spending more per visit, indicating a shift toward longer, more meaningful trips and a continued interest in Finland's nature, safety, and cultural authenticity.
 
 Seasonality remains significant, with summer being the busiest period. A deeper look into specific demographics—particularly travelers aged **25–44** and **45–64**—revealed that this group contributes the majority of tourism revenue. These two age groups were prioritized in the analysis as they represent the core of the working population and are likely to have more stable income and travel patterns.
 
@@ -27,7 +27,7 @@ Notably, business-related travel has also stabilized, with an increasing average
 ![Dashboard Screenshot](Images/Revenue.png)
 
 **Insight:**  
-Revenue grew by **4.2%** despite a modest **3.4% increase in visitor numbers** to **3.0 million trips**, signaling **higher spending per tourist**. The **average spend per trip increased by 0.8%**, reaching approximately **€737**. This could be due to longer stays, more premium travel experiences, or inflation-adjusted pricing.
+Revenue grew by **4.06%** despite a modest **3.55% increase in visitor numbers** to **3.0 million trips**, signaling **higher spending per tourist**. The **average spend per trip increased by 0.49%**, reaching approximately **€736.59**. This could be due to longer stays, more premium travel experiences, or inflation-adjusted pricing.
 
 ---
 
@@ -63,7 +63,7 @@ Long daylight hours, outdoor festivals, and family-friendly conditions make summ
 ![Dashboard Screenshot](Images/Duration.png)
 
 **Insight:**  
-Business trips to Finland tend to be extended, often merging professional and personal travel (“bleisure”). **Average trip duration for business travelers is 10 days** compared to **7.3 days for leisure trips**. This maximizes the return on long-haul travel while boosting **per-visitor revenue**.
+Business trips to Finland tend to be extended, often merging professional and personal travel (“bleisure”). **Average trip duration for business travelers is 9 days** compared to **7.3 days for leisure trips**. This maximizes the return on long-haul travel while boosting **per-visitor revenue**.
 
 ---
 
@@ -80,11 +80,11 @@ Business trips to Finland tend to be extended, often merging professional and pe
 
 | Metric                                | 2023  | 2024  | Change    |
 |-------------------------------------|-------|-------|-----------|
-| **Total Trips (in millions)**       | 2.9   | 3.0   | **+3.4%** |
-| **Total Revenue (in € billions)**   | 2.12  | 2.21  | **+4.2%** |
-| **Average Trip Duration Business (days)** | 8     | 10    | **+25%**  |
-| **Average Spend per Trip (€)**      | 731   | 737   | **+0.8%** |
-| **Return Intent (Summer)**           | 3.8/5 | 3.9/5 | **+2 points** |
+| **Total Trips (in millions)**       | 2.9   | 3.0   | **+3.55%** |
+| **Total Revenue (in € billions)**   | 2.12  | 2.21  | **+4.06%** |
+| **Average Trip Duration Business (days)** | 8     | 10    | **+14.85%**  |
+| **Average Spend per Trip (€)**      | 733.02   | 736.59   | **+0.49%** |
+| **Return Intent (Summer)**           | 3.82/5 | 3.93/5 | **+0.1** |
 
 *Note: Average Spend per Trip = Total Revenue ÷ Total Trips*
 
