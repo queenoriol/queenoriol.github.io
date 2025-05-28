@@ -27,7 +27,7 @@ Notably, business-related travel has also stabilized, with an increasing average
 ![Dashboard Screenshot](Images/Revenue.png)
 
 **Insight:**  
-Revenue grew by **4.06%** despite a modest **3.55% increase in visitor numbers** to **3.0 million trips**, signaling **higher spending per tourist**. The **average spend per trip increased by 0.49%**, reaching approximately **€737*. This could be due to longer stays, more premium travel experiences, or inflation-adjusted pricing.
+Revenue grew by **4.06%** despite a modest **3.55% increase in visitor numbers** to **3.0 million trips**, signaling **higher spending per tourist**. The **average spend per trip increased by 0.49%**, reaching approximately **€737**. This could be due to longer stays, more premium travel experiences, or inflation-adjusted pricing.
 
 ---
 
