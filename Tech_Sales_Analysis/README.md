@@ -1,4 +1,4 @@
-# Tech & Gadget Sales Analysis (2024)
+# Tech & Gadget Sales Analysis (2019)
 
 This project presents an in-depth sales analysis of a tech and gadget retail company using a dataset of over 185,000 orders across all 50 U.S. states. The analysis was performed using Excel for data cleaning and Power BI for modeling and visualization.
 
