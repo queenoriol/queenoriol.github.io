@@ -1,6 +1,6 @@
 # Tech & Gadget Sales Analysis (2019)
 
-This project presents an in-depth sales analysis of a tech and gadget retail company using a dataset of over 185,000 orders across all 50 U.S. states. The analysis was performed using Excel for data cleaning and Power BI for modeling and visualization.
+This project presents an in-depth sales analysis of a tech and gadget retail company using a dataset of over 185,000 orders across 8 U.S. states. The analysis was performed using Excel for data cleaning and Power BI for modeling and visualization.
 
 The goal is to uncover trends in customer behavior, product performance, geographic sales, and revenue concentration, and to provide actionable recommendations for improving business performance and strategic planning.
 
@@ -18,11 +18,11 @@ The goal is to uncover trends in customer behavior, product performance, geograp
 | Metric                         | Value                  |
 |-------------------------------|------------------------|
 | Total Revenue                 | $32.03 million         |
-| Products Sold                 | 209,000 units          |
-| Total Orders                  | 185,654                |
+| Products Sold                 | 208,771 units          |
+| Total Orders                  | 185,652                |
 | Unique Customers              | 140,787                |
 | Average Order Value           | $172.50                |
-| States Covered                | 50                     |
+| States Covered                | 8                     |
 | Customer Segments             | Platinum, Gold, Silver, Bronze |
 
 Data cleaning involved fixing missing entries, removing duplicates, standardizing customer classification labels, and checking for anomalies. The cleaned data was imported into Power BI, where key performance indicators and visualizations were built using DAX and slicers for interactive exploration.
@@ -45,18 +45,18 @@ Data cleaning involved fixing missing entries, removing duplicates, standardizin
 
 ---
 
-## Insight #1: Sales are Highest in Q1 and Q4
+## Insight #1: Sales are Highest in Q4 and Q2
 
 **What was observed:**  
-- Revenue peaked in April ($4.2M) and December ($4.4M)  
-- Q1 (Jan–Mar) and Q4 (Oct–Dec) combined contribute approximately 58% of total annual revenue  
-- Sales dip significantly from May through September, with August recording the lowest revenue at $1.6M
+- Revenue peaked in December ($4.29M) and October ($3.48M)  
+- Q4 (Oct–Dec) and Q2 (Apr–Jun) combined contribute approximately 47% of total annual revenue      
+- Sales dip significantly in January, recording the lowest revenue at $1.68M
 
 **Why this matters:**  
-The strong Q1 and Q4 performance likely reflects the seasonality of consumer behavior. Q1 includes post-holiday purchases, New Year upgrades, and tax refund spending, while Q4 benefits from holiday promotions like Black Friday and Christmas.
+The strong Q4 performance likely reflects the seasonality of consumer behavior, benefiting from holiday promotions like Black Friday and Christmas. Q2's strength may be attributed to spring sales and product launches.
 
 **Strategic recommendation:**  
-Introduce seasonal campaigns during slower months (May–Sept) using discount bundles, back-to-school offers, or loyalty incentives. This can help level out revenue across the year and reduce reliance on seasonal spikes.
+Introduce seasonal campaigns during slower months (Jan–Mar) using discount bundles, back-to-school offers, or loyalty incentives. This can help level out revenue across the year and reduce reliance on seasonal spikes.
 
 **Insight Visual Placeholder:**  
 `![Monthly Sales Trend Line Chart](insert-link-or-path-here)`
