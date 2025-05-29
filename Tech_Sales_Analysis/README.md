@@ -6,6 +6,13 @@ The goal is to uncover trends in customer behavior, product performance, geograp
 
 ---
 
+## 🔗 Dashboard & Files
+
+- **Power BI Dashboard Link:** [Insert Power BI dashboard link here]  
+- **Excel File (Cleaned Dataset):** [Insert Google Drive/Dropbox/OneDrive link here]
+
+---
+
 ## Dataset Summary
 
 | Metric                         | Value                  |
@@ -31,19 +38,10 @@ Data cleaning involved fixing missing entries, removing duplicates, standardizin
 
 ---
 
-## Dashboard Features
+## Dashboard Overview
 
-### Key Metrics Tracked
-- Total revenue, total units sold, total orders, number of customers
-- Average order value
-- Sales distribution by time, location, customer type, and product
-
-### Visualizations
-- Line chart of monthly sales trends
-- Bar charts for top products and customers
-- State-wise revenue distribution map
-- Pie chart showing revenue per customer classification
-- Slicers for time, location, product, and classification filtering
+**📌 Full Dashboard Screenshot Placeholder**  
+`![Full Dashboard Screenshot](insert-link-or-path-here)`
 
 ---
 
@@ -59,6 +57,9 @@ The strong Q1 and Q4 performance likely reflects the seasonality of consumer beh
 
 **Strategic recommendation:**  
 Introduce seasonal campaigns during slower months (May–Sept) using discount bundles, back-to-school offers, or loyalty incentives. This can help level out revenue across the year and reduce reliance on seasonal spikes.
+
+**📌 Insight Visual Placeholder:**  
+`![Monthly Sales Trend Line Chart](insert-link-or-path-here)`
 
 ---
 
@@ -79,6 +80,9 @@ The company's revenue is geographically concentrated, indicating high dependence
 
 **Strategic recommendation:**  
 While continuing to support high-performing states with regional marketing, it is important to identify underperforming but populous states (e.g., Florida, Georgia, or Illinois) with growth potential. Localized promotions and distribution expansion could diversify revenue sources.
+
+**📌 Insight Visual Placeholder:**  
+`![State Revenue Map or Bar Chart](insert-link-or-path-here)`
 
 ---
 
@@ -102,6 +106,9 @@ The sales pattern follows the Pareto principle (80/20 rule), where a small set o
 **Strategic recommendation:**  
 Ensure consistent stock levels of top-performing products and prioritize them in advertising campaigns. Consider bundling with accessories or offering extended warranties to increase average order value. This also suggests an opportunity to investigate underperforming SKUs for potential discontinuation.
 
+**📌 Insight Visual Placeholder:**  
+`![Top Products Bar Chart](insert-link-or-path-here)`
+
 ---
 
 ## Insight #4: Gold and Silver Customers Drive Majority of Revenue
@@ -123,6 +130,9 @@ These classifications likely reflect spending habits or loyalty tiers. Understan
 **Strategic recommendation:**  
 Design customer retention strategies focused on Gold and Silver segments—such as exclusive promotions, reward points, and early product access. Personalization for these groups can improve customer lifetime value without increasing acquisition costs.
 
+**📌 Insight Visual Placeholder:**  
+`![Customer Classification Pie or Bar Chart](insert-link-or-path-here)`
+
 ---
 
 ## Insight #5: A Few Customers Are High-Value Outliers
@@ -134,6 +144,9 @@ While these customers form a small percentage of the base, their impact is signi
 
 **Strategic recommendation:**  
 Implement customer profiling to track high-value buyer behavior and offer personalized experiences (e.g., early product releases, account managers). Nurturing these relationships can lead to repeat purchases, referrals, and brand advocacy.
+
+**📌 Insight Visual Placeholder:**  
+`![Top Customers Bar Chart](insert-link-or-path-here)`
 
 ---
 
@@ -175,18 +188,6 @@ Implement customer profiling to track high-value buyer behavior and offer person
 
 ---
 
-## Visual Attachment Suggestions
-
-- **Full Dashboard Screenshot** – Add near the top after summary  
-- **Monthly Trend Line Chart** – Attach under Insight #1  
-- **Sales by State Map or Bar Chart** – Attach under Insight #2  
-- **Top Products Bar Chart** – Attach under Insight #3  
-- **Revenue by Classification Pie Chart** – Attach under Insight #4  
-- **Top Customers Bar Chart** – Attach under Insight #5
-
----
-
 ## About the Analyst
 
 This project was created by an entry-level data analyst as part of a Power BI portfolio designed to demonstrate core competencies in data analysis, Excel, and dashboard creation. The goal was to simulate real-world business reporting by extracting relevant insights from large-scale retail data and presenting them in a clear, decision-ready format.
-
