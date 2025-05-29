@@ -20,6 +20,13 @@ Notably, business-related travel has also stabilized, with an increasing average
 
 ---
 
+## Dashboard Overview
+
+**📌 Full Dashboard Screenshot Placeholder**  
+`![Full Dashboard Screenshot](insert-link-or-path-here)`
+
+---
+
 ## Key Insights
 
 ### Tourism Revenue Increased to **€2.21B** in 2024
