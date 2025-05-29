@@ -40,7 +40,7 @@ Data cleaning involved fixing missing entries, removing duplicates, standardizin
 
 ## Dashboard Overview
 
-**📌 Full Dashboard Screenshot Placeholder**  
+**Full Dashboard Screenshot Placeholder**  
 `![Full Dashboard Screenshot](insert-link-or-path-here)`
 
 ---
@@ -58,7 +58,7 @@ The strong Q1 and Q4 performance likely reflects the seasonality of consumer beh
 **Strategic recommendation:**  
 Introduce seasonal campaigns during slower months (May–Sept) using discount bundles, back-to-school offers, or loyalty incentives. This can help level out revenue across the year and reduce reliance on seasonal spikes.
 
-**📌 Insight Visual Placeholder:**  
+**Insight Visual Placeholder:**  
 `![Monthly Sales Trend Line Chart](insert-link-or-path-here)`
 
 ---
@@ -81,7 +81,7 @@ The company's revenue is geographically concentrated, indicating high dependence
 **Strategic recommendation:**  
 While continuing to support high-performing states with regional marketing, it is important to identify underperforming but populous states (e.g., Florida, Georgia, or Illinois) with growth potential. Localized promotions and distribution expansion could diversify revenue sources.
 
-**📌 Insight Visual Placeholder:**  
+**Insight Visual Placeholder:**  
 `![State Revenue Map or Bar Chart](insert-link-or-path-here)`
 
 ---
@@ -106,7 +106,7 @@ The sales pattern follows the Pareto principle (80/20 rule), where a small set o
 **Strategic recommendation:**  
 Ensure consistent stock levels of top-performing products and prioritize them in advertising campaigns. Consider bundling with accessories or offering extended warranties to increase average order value. This also suggests an opportunity to investigate underperforming SKUs for potential discontinuation.
 
-**📌 Insight Visual Placeholder:**  
+**Insight Visual Placeholder:**  
 `![Top Products Bar Chart](insert-link-or-path-here)`
 
 ---
@@ -130,7 +130,7 @@ These classifications likely reflect spending habits or loyalty tiers. Understan
 **Strategic recommendation:**  
 Design customer retention strategies focused on Gold and Silver segments—such as exclusive promotions, reward points, and early product access. Personalization for these groups can improve customer lifetime value without increasing acquisition costs.
 
-**📌 Insight Visual Placeholder:**  
+**Insight Visual Placeholder:**  
 `![Customer Classification Pie or Bar Chart](insert-link-or-path-here)`
 
 ---
@@ -145,7 +145,7 @@ While these customers form a small percentage of the base, their impact is signi
 **Strategic recommendation:**  
 Implement customer profiling to track high-value buyer behavior and offer personalized experiences (e.g., early product releases, account managers). Nurturing these relationships can lead to repeat purchases, referrals, and brand advocacy.
 
-**📌 Insight Visual Placeholder:**  
+**Insight Visual Placeholder:**  
 `![Top Customers Bar Chart](insert-link-or-path-here)`
 
 ---
@@ -165,15 +165,17 @@ Implement customer profiling to track high-value buyer behavior and offer person
 
 ## Tools Used
 
-- **Excel**  
-  - Data Cleaning: Removed duplicates, fixed missing values  
-  - Functions: VLOOKUP, TEXTJOIN, IF, COUNTIFS, SUMIFS
+**Excel**  
+  - Cleaned data by removing duplicates, correcting formats, and handling blanks  
+  - Applied data validation, standardized column headers, and ensured correct data types  
+  - Used formulas like LOOKUPs, TEXTJOIN, IF, COUNTIFS, SUMIFS, INDEX-MATCH, and etc. to derive insights  
+  - Explored trends using filters, conditional formatting, and Pivot Tables for quick summaries
 
 - **Power BI**  
-  - Data Modeling: Relationships between orders, products, customers  
-  - Visuals: Line charts, bar graphs, pie charts, maps, KPI cards  
-  - DAX Measures: Total revenue, order counts, average spend
-
+  - Connected and modeled sales, product, and customer data  
+  - Built interactive dashboards with visuals (bar charts, trend lines, maps, etc.)  
+  - Used DAX for KPIs like revenue, order volume, and average order value  
+  - Enabled dynamic filtering by month, product, customer segment, and state
 ---
 
 ## Skills Demonstrated
