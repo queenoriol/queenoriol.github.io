@@ -20,7 +20,7 @@ The goal is to uncover trends in customer behavior, product performance, geograp
 | Total Revenue                 | $32.03 million         |
 | Products Sold                 | 209,000 units          |
 | Total Orders                  | 185,654                |
-| Unique Customers              | 140,000+               |
+| Unique Customers              | 140,787                |
 | Average Order Value           | $172.50                |
 | States Covered                | 50                     |
 | Customer Segments             | Platinum, Gold, Silver, Bronze |
