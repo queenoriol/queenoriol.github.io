@@ -44,7 +44,7 @@ Data preparation in Excel included resolving missing entries, removing duplicate
 
 ---
 
-### Insight 1: Q4 and Q2 Contribute Nearly Half of All Annual Revenue
+### Peak Quarters (Q2 & Q4) Generate 3 Out of Every 5 Dollars
 
 **What the data shows:**
 
@@ -65,7 +65,7 @@ Introduce special promotions and loyalty incentives in Q1 aiming for a $500K inc
 
 ---
 
-### Insight 2: Three States Generate Over 63% of Total Revenue
+### Top 3 States Dominate with 63%+ of Total Revenue
 
 **Top States by Revenue:**
 
@@ -86,7 +86,7 @@ Use these successful markets as models to scale efforts in similar states. Launc
 
 ---
 
-### Insight 3: Five Products Account for Two-Thirds of Revenue
+### Two-Thirds of Sales Come from These 5 Bestsellers
 
 **Top 5 Products by Revenue:**
 
@@ -154,7 +154,7 @@ Focus on these customers by creating a premium program—like special support, e
 |--------------------|-------------------------------------------------------------|
 | Seasonality        | Launch campaigns in Jan–Mar to reduce revenue volatility   |
 | Regional Sales     | Expand into untapped, high-potential states                |
-| Product Strategy   | Invest in top SKUs, consider rationalizing underperformers |
+| Product Strategy   | Boost support for top products, consider rationalizing underperformers |
 | Customer Segments  | Engage Gold and Silver tiers with rewards and personalization |
 | VIP Customers      | Offer exclusive experiences to top 10% of spenders         |
 
@@ -176,11 +176,11 @@ Focus on these customers by creating a premium program—like special support, e
 
 ## Skills Demonstrated
 
-- Data Cleaning and Quality Control  
-- Exploratory Data Analysis and Trend Identification  
-- Sales Performance Measurement  
+- Data Cleaning and Validation 
+- Exploratory Data Analysis and Trend Analysis  
+- Sales Tracking and Revenue Analysis 
 - Dashboard Design and Visual Storytelling  
-- Customer Segmentation and Classification  
+- Demographic and Behavioral Segmentation  
 - Business Intelligence Reporting  
 - Data-Driven Decision Making  
 
@@ -188,4 +188,4 @@ Focus on these customers by creating a premium program—like special support, e
 
 ## About the Analyst
 
-This project was developed to showcase my core skills as an entry-level data analyst. My focus was to extract business value from real-world data and communicate those findings clearly using Excel and Power BI. By emphasizing relevant metrics, practical recommendations, and intuitive visuals, this analysis simulates how data can support smarter decisions in a fast-paced retail environment.
+This project is my way of showing how I use data to make sense of real business challenges. Using Excel and Power BI, I focused on finding the key numbers that matter and sharing straightforward insights. My goal was to keep things clear and practical, so the data actually helps make better business decisions.
