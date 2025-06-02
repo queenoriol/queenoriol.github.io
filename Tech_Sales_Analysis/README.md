@@ -40,6 +40,10 @@ Data preparation in Excel included resolving missing entries, removing duplicate
 
 ## Dashboard Overview
 
+![Dashboard Screenshot](https://raw.githubusercontent.com/queenoriol/queenoriol.github.io/main/Tech_Sales_Analysis/Images/Dashboard.png)
+
+---
+
 ### Insight 1: Q4 and Q2 Contribute Nearly Half of All Annual Revenue
 
 **What the data shows:**
