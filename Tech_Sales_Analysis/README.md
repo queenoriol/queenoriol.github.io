@@ -41,7 +41,7 @@ Data cleaning involved fixing missing entries, removing duplicates, standardizin
 ## Dashboard Overview
 
 **Full Dashboard Screenshot Placeholder**  
-`![Full Dashboard Screenshot](insert-link-or-path-here)`
+`![Full Dashboard Screenshot](Images/Dashboard.png)`
 
 ---
 
