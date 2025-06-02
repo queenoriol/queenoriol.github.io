@@ -41,7 +41,7 @@ Data cleaning involved fixing missing entries, removing duplicates, standardizin
 ## Dashboard Overview
 
 **Full Dashboard Screenshot Placeholder**  
-![Dashboard Screenshot](https://raw.githubusercontent.com/queenoriol/queenoriol.github.io/main/Tech_Sales_Analysis/Images/dashboard.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/queenoriol/queenoriol.github.io/main/Tech_Sales_Analysis/Images/Dashboard.png)
 
 ---
 
