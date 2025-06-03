@@ -53,12 +53,14 @@ Data preparation in Excel included resolving missing entries, removing duplicate
 - December led all months with $4.29M in revenue, followed by October at $3.48M
 - January recorded the lowest monthly sales at $1.68M
   
+  
 | Quarter | Quarterly Revenue Share |
 |---------|-------------------------|
 |    Q1   |          19.78%         |
 |    Q2   |          26.46%         |
 |    Q3   |          20.25%         |
 |    Q4   |          33.51%         |
+
    
 - Q4 (Oct–Dec) alone accounts for over 34% of annual revenue  
 - Q2 (Apr–Jun) adds another 26%, bringing the combined share to 60%    
