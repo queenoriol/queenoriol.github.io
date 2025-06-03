@@ -79,8 +79,6 @@ California, Texas, and New York are high-performing markets, contributing over $
 **Recommendation:**  
 Use these successful markets as models to scale efforts in similar states. Launch pilot campaigns in 2–3 underperforming regions to test product-market fit and diversify growth.
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/queenoriol/queenoriol.github.io/main/Tech_Sales_Analysis/Images/State.png)
-
 ---
 
 ### Two-Thirds of Sales Come from These 5 Bestsellers
@@ -103,8 +101,6 @@ Top products like MacBooks and iPhones generate the most revenue and likely attr
 **Recommendation:**  
 Use these products in ads, email campaigns, and website banners. Offer exclusive deals or loyalty perks tied to them. Their strong demand can also be used to test new promotions or seasonal bundles.
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/queenoriol/queenoriol.github.io/main/Tech_Sales_Analysis/Images/Product.png)
-
 ---
 
 ### Insight 4: Gold and Silver Customers Drive 71% of Revenue
@@ -123,8 +119,6 @@ Although Platinum customers spend the most per person, over 71% of total revenue
 
 **Recommendation:**  
 Strengthen loyalty programs and deliver consistent value to Gold and Silver tiers. Consider auto-reorder options, discounts, or milestone rewards to boost long-term retention and average spend.
-
-![Dashboard Screenshot](https://raw.githubusercontent.com/queenoriol/queenoriol.github.io/main/Tech_Sales_Analysis/Images/Classification.png)
 
 ---
 
