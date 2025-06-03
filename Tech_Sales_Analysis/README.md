@@ -8,8 +8,8 @@ The objective was to translate raw sales data into meaningful insights about cus
 
 ## Dashboard & Files
 
-- **Power BI Dashboard Link**: [Insert Power BI dashboard link here]  
-- **Excel File (Cleaned Dataset)**: [Insert Google Drive/Dropbox/OneDrive link here]
+- **Power BI Dashboard**: (Tech_Sales_Dashboard.pbix)
+- **Excel File (Cleaned Dataset)**: (Tech_Sales_Analysis.xlsx)
 
 ---
 
@@ -46,20 +46,28 @@ Data preparation in Excel included resolving missing entries, removing duplicate
 
 ### Peak Quarters (Q2 & Q4) Generate 3 Out of Every 5 Dollars
 
+![Dashboard Screenshot](https://raw.githubusercontent.com/queenoriol/queenoriol.github.io/main/Tech_Sales_Analysis/Images/Revenue.png)
+
 **What the data shows:**
 
-- December led all months with $4.29M in revenue, followed by October at $3.48M  
+- December led all months with $4.29M in revenue, followed by October at $3.48M
+- January recorded the lowest monthly sales at $1.68M
+  
+| Quarter | Quarterly Revenue Share |
+|---------|-------------------------|
+|    Q1   |          19.78%         |
+|    Q2   |          26.46%         |
+|    Q3   |          20.25%         |
+|    Q4   |          33.51%         |
+   
 - Q4 (Oct–Dec) alone accounts for over 34% of annual revenue  
-- Q2 (Apr–Jun) adds another 26%, bringing the combined share to 60%  
-- January recorded the lowest monthly sales at $1.68M  
+- Q2 (Apr–Jun) adds another 26%, bringing the combined share to 60%    
 
 **Why this matters:**  
 The data shows a strong reliance on Q4 and Q2, which together bring in $19.2M or 60% of total revenue. This concentration risks business stability if key seasons underperform. January, the lowest revenue month, accounts for just 5.25% ($1.68M), which limits early-year growth potential.
 
 **Recommendation:**  
 Introduce special promotions and loyalty incentives in Q1 aiming for a $500K increase (8% growth). Encouraging steady sales outside peak months will strengthen financial resilience and customer engagement year-round.
-
-![Dashboard Screenshot](https://raw.githubusercontent.com/queenoriol/queenoriol.github.io/main/Tech_Sales_Analysis/Images/Revenue.png)
 
 ---
 
