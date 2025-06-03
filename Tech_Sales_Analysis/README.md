@@ -59,9 +59,7 @@ The data shows a strong reliance on Q4 and Q2, which together bring in $19.2M or
 **Recommendation:**  
 Introduce special promotions and loyalty incentives in Q1 aiming for a $500K increase (8% growth). Encouraging steady sales outside peak months will strengthen financial resilience and customer engagement year-round.
 
-
-**Visual Placeholder:**  
-`![Monthly Sales Trend Line Chart](insert-link-or-path-here)`
+![Dashboard Screenshot](https://raw.githubusercontent.com/queenoriol/queenoriol.github.io/main/Tech_Sales_Analysis/Images/Revenue.png)
 
 ---
 
@@ -81,8 +79,7 @@ California, Texas, and New York are high-performing markets, contributing over $
 **Recommendation:**  
 Use these successful markets as models to scale efforts in similar states. Launch pilot campaigns in 2–3 underperforming regions to test product-market fit and diversify growth.
 
-**Visual Placeholder:**  
-`![State Revenue Map or Bar Chart](insert-link-or-path-here)`
+![Dashboard Screenshot](https://raw.githubusercontent.com/queenoriol/queenoriol.github.io/main/Tech_Sales_Analysis/Images/State.png)
 
 ---
 
@@ -106,8 +103,7 @@ Top products like MacBooks and iPhones generate the most revenue and likely attr
 **Recommendation:**  
 Use these products in ads, email campaigns, and website banners. Offer exclusive deals or loyalty perks tied to them. Their strong demand can also be used to test new promotions or seasonal bundles.
 
-**Visual Placeholder:**  
-`![Top Products Bar Chart](insert-link-or-path-here)`
+![Dashboard Screenshot](https://raw.githubusercontent.com/queenoriol/queenoriol.github.io/main/Tech_Sales_Analysis/Images/Product.png)
 
 ---
 
@@ -128,8 +124,7 @@ Although Platinum customers spend the most per person, over 71% of total revenue
 **Recommendation:**  
 Strengthen loyalty programs and deliver consistent value to Gold and Silver tiers. Consider auto-reorder options, discounts, or milestone rewards to boost long-term retention and average spend.
 
-**Visual Placeholder:**  
-`![Customer Classification Pie or Bar Chart](insert-link-or-path-here)`
+![Dashboard Screenshot](https://raw.githubusercontent.com/queenoriol/queenoriol.github.io/main/Tech_Sales_Analysis/Images/Classification.png)
 
 ---
 
@@ -143,9 +138,7 @@ Although these top 10 customers make up only 0.12% of total revenue, they spend 
 **Recommendation:**  
 Focus on these customers by creating a premium program—like special support, early product access, or exclusive deals. Even a **5–10%** increase in their spending could add thousands to revenue and improve loyalty.
 
-**Visual Placeholder:**  
-`![Top Customers Bar Chart](insert-link-or-path-here)`
-
+![Dashboard Screenshot](https://raw.githubusercontent.com/queenoriol/queenoriol.github.io/main/Tech_Sales_Analysis/Images/Customer.png)
 ---
 
 ## Summary of Key Recommendations
