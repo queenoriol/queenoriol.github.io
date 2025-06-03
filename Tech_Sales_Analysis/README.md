@@ -46,9 +46,9 @@ Data preparation in Excel included resolving missing entries, removing duplicate
 
 ### Peak Quarters (Q2 & Q4) Generate 3 Out of Every 5 Dollars
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/queenoriol/queenoriol.github.io/main/Tech_Sales_Analysis/Images/Revenue.png)
-
 **What the data shows:**
+
+![Dashboard Screenshot](https://raw.githubusercontent.com/queenoriol/queenoriol.github.io/main/Tech_Sales_Analysis/Images/Revenue.png)
 
 - December led all months with $4.29M in revenue, followed by October at $3.48M
 - January recorded the lowest monthly sales at $1.68M
@@ -140,7 +140,6 @@ Although these top 10 customers make up only 0.12% of total revenue, they spend 
 **Recommendation:**  
 Focus on these customers by creating a premium program—like special support, early product access, or exclusive deals. Even a **5–10%** increase in their spending could add thousands to revenue and improve loyalty.
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/queenoriol/queenoriol.github.io/main/Tech_Sales_Analysis/Images/Customer.png)
 ---
 
 ## Summary of Key Recommendations
