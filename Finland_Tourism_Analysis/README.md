@@ -21,8 +21,6 @@ Notably, business-related travel has also stabilized, with an increasing average
 ---
 
 ## Dashboard Overview
-
-**Full Dashboard Screenshot Placeholder**  
 ![Full_Dashboard Screenshot](Images/Dashboard.png)
 
 ---
