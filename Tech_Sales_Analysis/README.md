@@ -9,6 +9,7 @@ The objective was to translate raw sales data into meaningful insights about cus
 ## Dashboard & Files
 
 > [Power BI Dashboard](Tech_Sales_Dashboard.pbix)
+
 > [Excel File (Cleaned Dataset)](Tech_Sales_Analysis.xlsx)
 
 ---
