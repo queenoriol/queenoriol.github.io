@@ -72,7 +72,7 @@ Data preparation in Excel included resolving missing entries, removing duplicate
 | Q3      | **20.25%**                  |
 | Q4      | **33.51%**                  |
 
-- Q4 (Oct–Dec) alone accounts for over **34%** of annual revenue  
+- Q4 (Oct–Dec) alone accounts for **34%** of annual revenue  
 - Q2 (Apr–Jun) adds another **26%**, bringing the combined share to **60%**    
 
 **Why this matters:**  
